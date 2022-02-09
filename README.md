@@ -1,8 +1,3 @@
-# Homework #2
-
-Zhicong Ma  
-Student ID: 12276995
-
 The text in this website is all from Nonsense Text Generator.
 
 ## References
