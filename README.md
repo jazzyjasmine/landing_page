@@ -1,4 +1,16 @@
-The text in this website is all from Nonsense Text Generator.
+# Landing Page
+
+![demo](demo.png)
+
+This is a landing page with the following features implemented:
+- A navigation bar across the top
+- A large, visually appealing hero element with a clear "call to action" button
+- At least three sections with multi-column desktop layouts, for example:
+- Sample listings: One column-count, one flexbox, and one css grid.
+- A footer element with links
+- Media queries
+
+Note that the text in this website is all from Nonsense Text Generator.
 
 ## References
 
